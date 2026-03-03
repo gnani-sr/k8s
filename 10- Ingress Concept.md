@@ -1,5 +1,6 @@
 
-### **Why is Ingress Widely Used? (Advantages of Ingress)**  
+### **Why is Ingress Widely Used? (Advantages of Ingress)** 
+
 Ingress is widely used in Kubernetes because it provides a centralized way to manage external access to services. Instead of creating multiple LoadBalancers or NodePort services, Ingress offers a scalable and efficient way to expose applications.
 
 #### **Key Advantages of Ingress:**  
