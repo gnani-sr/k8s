@@ -60,7 +60,6 @@ helm uninstall my-nginx
 
 ---
 
-
 ---
 ### **Deploy a Custom Application Using Helm**
 ---
