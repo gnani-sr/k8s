@@ -1,6 +1,7 @@
 The repository gnani-sr/k8s ( https://github.com/gnani-sr/k8s ) is a public fork (from avizway1/k8s) that functions primarily as a Kubernetes / Amazon EKS learning-notes repo. It’s mostly a collection of Markdown guides rather than an application codebase (the repo metadata has no GitHub “primary language” detected, and the languages endpoint returned no breakdown).
 
 What’s in it (top-level contents)
+
 The main branch consists of a set of numbered, topic-focused Markdown documents:
 
 01-Introdution to Containers and K8s.md — intro to containers and Kubernetes
